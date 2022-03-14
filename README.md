@@ -1,1 +1,1 @@
-# togepi.exe
+# togepi
