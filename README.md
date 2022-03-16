@@ -6,15 +6,11 @@ Currently Supports Webhooks, Code will be updated soon
 
 
 ![image](https://user-images.githubusercontent.com/69800494/158576048-b42da403-60e2-4968-9373-3d0258e317be.png)
-<p align="center">
-  <a href="#running">Running</a>
-  •
-</p>
 
-##Running
+## Setting it up
+<br>
 1.Clone this repository git clone `https://github.com/AKGaming0001/pokemon-coords.git`
 <br>
-
 ~~2.Install all requirements `pip install -r requirements.txt` in cmd prompt. [will add python src later]~~
 <br>
 
