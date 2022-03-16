@@ -9,7 +9,7 @@ Currently Supports Webhooks, Code will be updated soon
 
 ## Setting it up
 - Clone this repository `git clone https://github.com/AKGaming0001/pokemon-coords.git`
-- Install all requirements `pip install -r requirements.txt` in cmd prompt `will add python src later]`
+~~- Install all requirements `pip install -r requirements.txt` in cmd prompt `will add python src later]`~~
 ```json
 { 
 	"webhookurl": "https://discord.com/api/webhooks/943393944401234373/abcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabc",
