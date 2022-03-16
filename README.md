@@ -21,4 +21,19 @@ Currently Supports Webhooks, Code will be updated soon
 ```
 - Run `poke_coords.exe`and watch the coords flooding in your channel (jk it has ~2sec cooldown between each coord with respect to discord api).
 - `poke_coords.exe` and `config.json` should be in same directory while running.
+
+## To-Do
+
+- [x] Release an .exe file
+- [x] Config file.
+- [ ] Release a python file. 
+- [ ] Multiple webhook urls.
+- [ ] Custom Embeds / Normal messages.
+- [ ] Public Discord bot.
+- [ ] idk...
+
+
+
+
+
 >  💡 Got a feature idea? Open an [issue](https://github.com/AKGaming0001/pokemon-coords/issues/new?assignees=&labels=enhancement&template=feature-request---.md) and I might implement it.
