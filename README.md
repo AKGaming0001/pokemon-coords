@@ -17,5 +17,5 @@ Currently Supports Webhooks, Code will be updated soon
 	"webhook_icon_url": "https://cdn.discordapp.com/icons/780052013924220968/ccc15bfb186d9291058ff5c261828319.png?size=4096"
 }
 ```
-3.Edit `config.json` file and replace webhookurl ^.
-4.Run poke_coords.exe and watch the coords flooding in your channel (jk it has ~2sec cooldown between each coord with respect to discord api).
+1.Edit `config.json` file and replace webhookurl ^.
+1.Run poke_coords.exe and watch the coords flooding in your channel (jk it has ~2sec cooldown between each coord with respect to discord api).
