@@ -25,3 +25,5 @@ Currently Supports Webhooks, Code will be updated soon
 3.Edit `config.json` file and replace webhookurl ^.
 <br>
 4.Run poke_coords.exe and watch the coords flooding in your channel (jk it has ~2sec cooldown between each coord with respect to discord api).
+<br>
+> 💡 Got a feature idea? Open an [issue](https://github.com/AKGaming0001/pokemon-coords/issues/new?assignees=&labels=enhancement&template=feature-request---.md) and I might implement it.
