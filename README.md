@@ -26,6 +26,7 @@ Currently Supports Webhooks, Code will be updated soon
 
 - [x] Release an .exe file
 - [x] Config file.
+- [ ] Better Format.
 - [ ] Release a python file. 
 - [ ] Multiple webhook urls.
 - [ ] Custom Embeds / Normal messages.
