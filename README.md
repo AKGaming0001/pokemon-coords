@@ -29,7 +29,7 @@ Currently Supports Webhooks, Code will be updated soon
 - [ ] Release a python file. 
 - [ ] Multiple webhook urls.
 - [ ] Custom Embeds / Normal messages.
-- [ ] Public Discord bot.
+- [ ] Customizable discord bot / webhooks.
 - [ ] idk...
 
 
