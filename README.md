@@ -9,7 +9,7 @@ Currently Supports Webhooks, Code will be updated soon
 
 ## Setting it up
 <br>
-1.Clone this repository git clone `https://github.com/AKGaming0001/pokemon-coords.git`
+1.Clone this repository `git clone https://github.com/AKGaming0001/pokemon-coords.git`
 <br>
 ~~2.Install all requirements `pip install -r requirements.txt` in cmd prompt. [will add python src later]~~
 <br>
