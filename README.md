@@ -10,6 +10,8 @@ Currently Supports Webhooks, Code will be updated soon
 ## Setting it up
 - Clone this repository `git clone https://github.com/AKGaming0001/pokemon-coords.git`
 - ~~Install all requirements `pip install -r requirements.txt` in cmd prompt `will add python src later]`~~
+- Create a webhook in your Discord Server ([Guide](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)) and copy it.
+- Edit `config.json` file and paste the webhookurl you created.
 ```json
 { 
 	"webhookurl": "https://discord.com/api/webhooks/943393944401234373/abcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabc",
@@ -17,7 +19,6 @@ Currently Supports Webhooks, Code will be updated soon
 	"webhook_icon_url": "https://cdn.discordapp.com/icons/780052013924220968/ccc15bfb186d9291058ff5c261828319.png?size=4096"
 }
 ```
-- Edit `config.json` file and replace webhookurl ^.
 - Run `poke_coords.exe`and watch the coords flooding in your channel (jk it has ~2sec cooldown between each coord with respect to discord api).
-
+- `poke_coords.exe` and `config.json` should be in same directory while running.
 >  💡 Got a feature idea? Open an [issue](https://github.com/AKGaming0001/pokemon-coords/issues/new?assignees=&labels=enhancement&template=feature-request---.md) and I might implement it.
