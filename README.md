@@ -4,7 +4,8 @@ Currently Supports Webhooks, Code will be updated soon
 
 [![Pokemon PGS](https://discordapp.com/api/guilds/780052013924220968/widget.png?style=banner2)](https://discord.gg/N5Smtq7n7t)
 
-![image](https://cdn.discordapp.com/attachments/870663313053323295/953759090578952222/158576048-b42da403-60e2-4968-9373-3d0258e317be.png)
+<!-- ![image](https://cdn.discordapp.com/attachments/870663313053323295/953759090578952222/158576048-b42da403-60e2-4968-9373-3d0258e317be.png) -->
+<img src="https://user-images.githubusercontent.com/69800494/158576048-b42da403-60e2-4968-9373-3d0258e317be.png" width=50% height=50%>
 
 ## Setting it up
 - Clone this repository `git clone https://github.com/AKGaming0001/pokemon-coords.git`
