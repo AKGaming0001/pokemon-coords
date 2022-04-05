@@ -27,6 +27,7 @@ Currently Supports Webhooks, Code will be updated soon
 - [x] Release an .exe file
 - [x] Config file.
 - [ ] Better Format.
+- [ ] Pokemon IV/LVL/CP Filters.
 - [ ] Release a python file. 
 - [ ] Multiple webhook urls.
 - [ ] Custom Embeds / Normal messages.
