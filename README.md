@@ -57,7 +57,7 @@ Currently Supports Webhooks, Code will be updated soon
 
 	
 ## Donate Crypto ##	
-![Donate Bitcoin](https://bitcoin.org/img/home/bitcoin-img.svg?1648897668)
+![Donate Bitcoin](https://bitcoin.org/img/icons/opengraph.png?1648897668)
 BTC: bc1q7jjh9v0qdht3jzh7tdl4kkkqqxev8chwauuxh6
 	
 	
