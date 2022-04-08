@@ -58,11 +58,11 @@ Currently Supports Webhooks, Code will be updated soon
 	
 ## Donate Crypto ##	
 ![Donate Bitcoin](https://bitcoin.org/img/home/bitcoin-img.svg?1648897668)
-BTC: 37N7B7sdHahCXTcMJgEnHz7YmiR4bEqCrS
+BTC: bc1q7jjh9v0qdht3jzh7tdl4kkkqqxev8chwauuxh6
 	
 	
 ![Donate Ethereum](https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/cdbe4/eth-diamond-purple.webp)
-BTC: 37N7B7sdHahCXTcMJgEnHz7YmiR4bEqCrS
+ETH: 0xe468aF4fC5f592b5517c6f0860B6D149238fcE52
 	
 	
 	
