@@ -57,11 +57,11 @@ Currently Supports Webhooks, Code will be updated soon
 
 	
 ## Donate Crypto ##	
-![Donate Bitcoin](https://bitcoin.org/img/icons/opengraph.png?1648897668)
+![Donate Bitcoin](https://cdn-icons-png.flaticon.com/32/1490/1490900.png)
 BTC: bc1q7jjh9v0qdht3jzh7tdl4kkkqqxev8chwauuxh6
 	
 	
-![Donate Ethereum](https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/cdbe4/eth-diamond-purple.webp)
+![Donate Ethereum](https://cdn-icons-png.flaticon.com/32/7116/7116081.png)
 ETH: 0xe468aF4fC5f592b5517c6f0860B6D149238fcE52
 	
 	
