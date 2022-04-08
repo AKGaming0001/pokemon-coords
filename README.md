@@ -1,3 +1,17 @@
+<p align="center">
+  <a href="https://pokemonpgs.github.io/discord">
+    <img src="https://discordapp.com/api/guilds/780052013924220968/widget.png?style=shield" alt="Discord Server">
+  </a>
+
+  <a href="https://github.com/Rapptz/discord.py/">
+     <img src="https://img.shields.io/badge/discord-py-blue.svg" alt="discord.py">
+  </a>
+</p>
+
+<p align="center"> 
+[![Donate Bitcoin](https://img.shields.io/badge/BTC-bc1q7jjh9v0qdht3jzh7tdl4kkkqqxev8chwauuxh6-E38B29.svg?style=flat-square&logo=bitcoin)](https://chart.googleapis.com/chart?chs=250x250&cht=qr&chl=bc1q7jjh9v0qdht3jzh7tdl4kkkqqxev8chwauuxh6) [![Donate Ethereum](https://img.shields.io/badge/ETH-0xe468aF4fC5f592b5517c6f0860B6D149238fcE52-4E8EE9.svg?style=flat-square&logo=ethereum)](https://chart.googleapis.com/chart?chs=250x250&cht=qr&chl=0xe468aF4fC5f592b5517c6f0860B6D149238fcE52)
+</p>
+
 A bot that looks for Pokémon Go coordinates data and posts them to discord using either webhook or discord bot(wip)
 
 Currently Supports Webhooks, Code will be updated soon 
