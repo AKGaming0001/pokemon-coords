@@ -13,9 +13,7 @@
 </p> -->
 	
 
-A bot that looks for Pokémon Go coordinates data and posts them to discord using either webhook or discord bot(wip)
-
-Currently Supports Webhooks, Code will be updated soon 
+A bot that looks for Pokémon Go coordinates data and posts them to discord using either **Discord Webhook**.
 
 [![Pokemon PGS](https://discordapp.com/api/guilds/780052013924220968/widget.png?style=banner2)](https://discord.gg/N5Smtq7n7t)
 
