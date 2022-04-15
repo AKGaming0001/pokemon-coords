@@ -19,15 +19,11 @@ A bot that looks for Pokémon Go coordinates data and posts them to discord usin
 <!-- ![image](https://cdn.discordapp.com/attachments/870663313053323295/953759090578952222/158576048-b42da403-60e2-4968-9373-3d0258e317be.png) -->
 <!-- <img src="https://user-images.githubusercontent.com/69800494/158576048-b42da403-60e2-4968-9373-3d0258e317be.png" width=50% height=50%> -->
 	
-	
-	
-	
 <img src="https://user-images.githubusercontent.com/69800494/162617428-98384115-2bf3-43c1-acde-ab011b281a47.png" width=50% height=50%>
-	
+<!-- - ~~Install all requirements `pip install -r requirements.txt` in cmd prompt `will add python src later]`~~ -->	
 
 ## Setting it up
 - Clone this repository `git clone https://github.com/AKGaming0001/pokemon-coords.git`
-<!-- - ~~Install all requirements `pip install -r requirements.txt` in cmd prompt `will add python src later]`~~ -->
 - Create a webhook in your Discord Server ([Guide](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)) and copy it.
 - Run `poke_coords.exe`and watch the coords in your discord server.
 - `poke_coords.exe` and `config.json` should be in same directory while running.
