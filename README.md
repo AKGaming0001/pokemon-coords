@@ -28,6 +28,7 @@ A bot that looks for Pokémon Go coordinates data and posts them to discord usin
 - Run `poke_coords.exe`and watch the coords in your discord server.
 - `poke_coords.exe` and `config.json` should be in same directory while running.
 
+- Note: Webhook Url should start with `https://discord.com...` else the bot won't work.
 ## To-Do
 
 - [x] Release an .exe file
