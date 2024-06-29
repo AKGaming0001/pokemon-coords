@@ -1,3 +1,6 @@
+# ⭐ Support me with a star so I get motivated, as I spend a lot of time updating this repo.
+
+
 <p align="center">
   <a href="https://pokemonpgs.github.io/discord">
     <img src="https://discordapp.com/api/guilds/780052013924220968/widget.png?style=shield" alt="Discord Server">
