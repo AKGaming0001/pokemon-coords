@@ -40,17 +40,9 @@ A bot that looks for Pokémon Go coordinates data and posts them to discord usin
 
 
 >  💡 Got a feature idea? Open an [issue](https://github.com/AKGaming0001/pokemon-coords/issues/new?assignees=&labels=enhancement&template=feature-request---.md) and I might implement it.
-
-	
-## Donate Crypto ##	
-![Donate Bitcoin](https://cdn-icons-png.flaticon.com/16/1490/1490900.png)
-BTC: bc1q7jjh9v0qdht3jzh7tdl4kkkqqxev8chwauuxh6
-	
-![Donate Ethereum](https://cdn-icons-png.flaticon.com/16/7116/7116081.png)
-ETH: 0xe468aF4fC5f592b5517c6f0860B6D149238fcE52
-
  
-## Contact me on Discord ##	
-I can make custom tool with branding 
-@akxd
+# ❓ Need help 
+- Reach me on discord : @akxd
+- DO NOT DM FOR DUMB REASONS
+-----------
 	
