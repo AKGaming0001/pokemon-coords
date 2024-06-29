@@ -52,5 +52,5 @@ ETH: 0xe468aF4fC5f592b5517c6f0860B6D149238fcE52
  
 ## Contact me on Discord ##	
 I can make custom tool with branding 
-[![@akxd]]
+@akxd
 	
