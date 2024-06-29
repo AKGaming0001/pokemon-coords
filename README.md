@@ -48,7 +48,9 @@ BTC: bc1q7jjh9v0qdht3jzh7tdl4kkkqqxev8chwauuxh6
 	
 ![Donate Ethereum](https://cdn-icons-png.flaticon.com/16/7116/7116081.png)
 ETH: 0xe468aF4fC5f592b5517c6f0860B6D149238fcE52
-	
-## Join Discord ##		
-[![Pokemon PGS](https://discordapp.com/api/guilds/780052013924220968/widget.png?style=banner2)](https://discord.gg/N5Smtq7n7t)
+
+ 
+## Contact me on Discord ##	
+I can make custom tool with branding 
+[![@akxd]]
 	
